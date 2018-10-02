@@ -15,9 +15,9 @@ Do you have a portfolio or resume you want feedback on? Send it in by Monday Sep
 
 *Schedule*
 
-6:00 - 6:30 Networking and Food
-6:30 - 8:00 Lightning Talks
-8:00 - 9:00 Hanging Out
+6:00 - 6:30 Networking and Food  
+6:30 - 8:00 Lightning Talks  
+8:00 - 9:00 Hanging Out 
 
 *Lightning Talks*
 
@@ -53,20 +53,20 @@ This talk will be a briefly cover the following:
 
 ### Keren Toledano
 
-Keren is a User Experience Design Lead at Think Company. She has worked across applications and websites for clients including Netflix, The Moth, Comcast, Baume et Mercier, and The Olympic Games. She believes very strongly in liberal arts majors working in tech—that algorithms, interfaces and most digital advances present social challenges that need critical thinking about their human context. A lover of dystopian fiction, museums, video games (RPGs), movie soundtracks, strolling aimlessly, and reuniting our Left Brains and Right Brains, Keren is always working on her next side project.
-Website: http://www.kerenveisblatttoledano.com
-LinkedIn: https://www.linkedin.com/in/kerenveisblatttoledano
+Keren is a User Experience Design Lead at Think Company. She has worked across applications and websites for clients including Netflix, The Moth, Comcast, Baume et Mercier, and The Olympic Games. She believes very strongly in liberal arts majors working in tech—that algorithms, interfaces and most digital advances present social challenges that need critical thinking about their human context. A lover of dystopian fiction, museums, video games (RPGs), movie soundtracks, strolling aimlessly, and reuniting our Left Brains and Right Brains, Keren is always working on her next side project.  
+Website: http://www.kerenveisblatttoledano.com  
+LinkedIn: https://www.linkedin.com/in/kerenveisblatttoledano  
 
 ### Andrew Croce
 
-Andrew is a UX designer and UI engineer at PromptWorks and is an advocate for accessibility techniques in software. He believes in providing standard, streamlined UI development patterns for applications and systems. When Andrew is not busy building functional User Interfaces, he advocates for underrepresented and misunderstood users. He is the voice in the room that revisits questions that haven’t been considered well enough. Andrew focuses on bridging the gaps between design, business and software. He loves making things... that work... for people.
-LinkedIn: https://www.linkedin.com/in/andrewcroce/
+Andrew is a UX designer and UI engineer at PromptWorks and is an advocate for accessibility techniques in software. He believes in providing standard, streamlined UI development patterns for applications and systems. When Andrew is not busy building functional User Interfaces, he advocates for underrepresented and misunderstood users. He is the voice in the room that revisits questions that haven’t been considered well enough. Andrew focuses on bridging the gaps between design, business and software. He loves making things... that work... for people.  
+LinkedIn: https://www.linkedin.com/in/andrewcroce/ 
 
 ### Sujan Khadgi
 
-Sujan is an Experience Designer at Think Company, an amateur dog petter, and an appreciator of pixel/lego art. When he isn’t pushing pixels, he can be found drawing portraits, checking out the IKEA website a hundred times, or making pixel art.
-Dribbble: https://dribbble.com/sujankhadgi
-LinkedIn: https://www.linkedin.com/in/sujankhadgi/
+Sujan is an Experience Designer at Think Company, an amateur dog petter, and an appreciator of pixel/lego art. When he isn’t pushing pixels, he can be found drawing portraits, checking out the IKEA website a hundred times, or making pixel art.  
+Dribbble: https://dribbble.com/sujankhadgi  
+LinkedIn: https://www.linkedin.com/in/sujankhadgi/  
 
 - - -
 

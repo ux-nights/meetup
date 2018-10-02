@@ -67,3 +67,27 @@ LinkedIn: https://www.linkedin.com/in/andrewcroce/
 Sujan is an Experience Designer at Think Company, an amateur dog petter, and an appreciator of pixel/lego art. When he isn’t pushing pixels, he can be found drawing portraits, checking out the IKEA website a hundred times, or making pixel art.
 Dribbble: https://dribbble.com/sujankhadgi
 LinkedIn: https://www.linkedin.com/in/sujankhadgi/
+
+- - -
+
+## Documentation
+
+*Qualitative v. Quantitative*
+
+[View Slides](https://docs.google.com/presentation/d/1AklLXF7urbb2N_wYeTemZYWH-1dUCX9Dw7VKRWXOscI/edit#slide=id.g1bb99be56c_0_0)
+
+
+*Object Oriented UX*
+
+[View Slides](https://object-oriented-ux.firebaseapp.com/)
+ 
+
+*Design Systems*
+
+[View Slides](https://www.dropbox.com/s/g3uoz3eszagnekn/Design_Systems-Sujan_Khadgi.pdf?dl=0)
+
+[View Resources](https://gist.github.com/luiscielak/089b6d4dd7262ce51af37f0b4b955333#file-ux-nights-design-systems-resources)
+
+
+
+

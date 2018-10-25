@@ -8,6 +8,6 @@ Do you have a portfolio or resume you want feedback on?
 
 Sign up for UX Nights Office Hours. Book a one-on-one 30 minute session to review your portfolio, resume, or discuss anything you would like.
 
-UX Nights Office Hours: http://bit.ly/ux-nights
+**UX Nights Office Hours**: http://bit.ly/ux-nights
 
-Join our Meetup group: https://www.meetup.com/ux-nights/
+**Join our Meetup group**: https://www.meetup.com/ux-nights/

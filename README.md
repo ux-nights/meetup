@@ -11,3 +11,14 @@ Sign up for UX Nights Office Hours. Book a one-on-one 30 minute session to revie
 **UX Nights Office Hours**: http://bit.ly/ux-nights
 
 **Join our Meetup group**: https://www.meetup.com/ux-nights/
+
+- - -
+
+## Events
+
+### 2018
+
+* [UX vs. UI](events/ux-vs-ui) _(2018-10-25)_
+
+* [UX Research](events/ux-research) _(2018-09-27)_
+

@@ -76,16 +76,6 @@ Learn 3 things every UX professional can do today to elevate the role and visibi
 ## About our Speakers
 
 
-### Drew Christiano
-
-Drew Christiano has been designing experiences for the web and mobile for almost two decades. Currently a Senior Experience Designer at Think Company, he was a member of the team that launched Xfinity Mobile, and has since worked on projects for Comcast and AmerisourceBergen. When not hunched over a computer screen, Drew enjoys hiking and backcountry camping with his wife Kathy, romping around with his two Huskies, Tuuk and Kai, and keeping the dream alive playing in various men's hockey leagues around the area.
-
-Website:    www.drewchristiano.com  
-Twitter:    www.twitter.com/drewchristiano  
-Medium:     www.medium.com/@drewchristiano  
-LinkedIn:   www.linkedin.com/in/drewchristiano  
-
-
 ### L. Steven Pashley
 
 L. Steven Pashley, Director of UX for Elsevier Clinical Solutions, is a passionate design leader focused on defining human-centered experiences that solve real world problems, delight users, and deliver exceptional business results. Steve’s broad experiences include leadership of human-centered design teams, development of product innovation programs, and product design across the healthcare industry. In those leadership roles Steve has led design process improvement including the adoption of lean and agile UX practices, spoken on Lean UX practices before professional groups including PhillyCHI, AgilePhilly, and Agile Uprising and has led various workshops on the implementation of Lean UX at the corporate level.
@@ -101,6 +91,17 @@ In his nearly 20 years in UX design Anthony Profeta has served as a strategic UX
 He is currently working on the launch of WonderlandFound.com a site dedicated to the works and collection of Lewis Carroll and the Golden Age of Illustration.
 
 LinkedIn: www.linkedin.com/in/profeta
+
+
+
+### Drew Christiano
+
+Drew Christiano has been designing experiences for the web and mobile for almost two decades. Currently a Senior Experience Designer at Think Company, he was a member of the team that launched Xfinity Mobile, and has since worked on projects for Comcast and AmerisourceBergen. When not hunched over a computer screen, Drew enjoys hiking and backcountry camping with his wife Kathy, romping around with his two Huskies, Tuuk and Kai, and keeping the dream alive playing in various men's hockey leagues around the area.
+
+Website:    www.drewchristiano.com  
+Twitter:    www.twitter.com/drewchristiano  
+Medium:     www.medium.com/@drewchristiano  
+LinkedIn:   www.linkedin.com/in/drewchristiano  
 
 - - -
 

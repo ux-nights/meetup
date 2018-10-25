@@ -1,5 +1,13 @@
 # UX Nights
 
-Are you a professional, student, or just interested in design? Are you considering switching careers or looking for your next gig? Are you passionate about learning new things and become better at what you do? Do you just want to hang out and talk about design?
+UX nights is a safe place where we talk about user experience and how it affects your life and the work you do.
 
-Come join us! UX nights is a safe place where we talk about user experience and how it affects your life and the work you do.
+Are you a professional, student, or just interested in design? Are you considering switching careers or looking for your next gig? Are you passionate about learning new things and become better at what you do? Do you just want to hang out and talk about design? Come join us!
+
+Do you have a portfolio or resume you want feedback on?
+
+Sign up for UX Nights Office Hours. Book a one-on-one 30 minute session to review your portfolio, resume, or discuss anything you would like.
+
+UX Nights Office Hours: http://bit.ly/ux-nights
+
+Join our Meetup group: https://www.meetup.com/ux-nights/

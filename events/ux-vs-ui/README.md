@@ -29,13 +29,13 @@ UX Nights Office Hours: http://bit.ly/ux-nights
 
 **Talks**
 
-- It’s UX and UI - How Elsevier Uses UX Generalists and Design Systems to Deliver Exceptional Experiences
+- It’s UX and UI - How Elsevier Uses UX Generalists and Design Systems to Deliver Exceptional Experiences   
   by: L. Steven Pashley
 
-- Are You Sharpening Your Arrows or Checking the Box?
+- Are You Sharpening Your Arrows or Checking the Box?   
   by: Anthony Projects
 
-- UI vs UX: Beyond Buzzwords
+- UI vs UX: Beyond Buzzwords   
   by: Drew Christiano
 
 

@@ -44,13 +44,6 @@ UX Nights Office Hours: http://bit.ly/ux-nights
 
 ## Talks
 
-
-### UI vs UX: Beyond Buzzwords
-by: Drew Christiano
-
-What is user experience? This is a question that has plagued both job posters and designers alike. During this session, Drew will give an overview of UX, break down its many disciplines, and take a look at how we can best use it to improve the quality of products we design. Attendees will be left with a better understanding of UX, as well as have the tools and knowledge needed to create better experiences.
-
-
 ### It’s UX and UI - How Elsevier Uses UX Generalists and Design Systems to Deliver Exceptional Experiences
 by: L. Steven Pashley
 
@@ -68,6 +61,12 @@ by: Anthony Profeta
 If you can relate to only one of the above, then this talk is for you.
 
 Learn 3 things every UX professional can do today to elevate the role and visibility of User Experience in their organization and the 1 thing every UX professional must stop doing right now.
+
+
+### UI vs UX: Beyond Buzzwords
+by: Drew Christiano
+
+What is user experience? This is a question that has plagued both job posters and designers alike. During this session, Drew will give an overview of UX, break down its many disciplines, and take a look at how we can best use it to improve the quality of products we design. Attendees will be left with a better understanding of UX, as well as have the tools and knowledge needed to create better experiences.
 
 
 - - -

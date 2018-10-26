@@ -108,7 +108,8 @@ LinkedIn:   www.linkedin.com/in/drewchristiano
 
 *UI vs UX: Beyond Buzzwords*
 
-[View Slides](#)
+[View Slides - PDF](https://www.dropbox.com/s/tgasq1beh12cy6k/UI%20vs%20UX%20-%20Beyond%20Buzzwords.pdf?dl=0)  
+[View Slides - Keynote](https://www.dropbox.com/s/m435ndx2h3y0off/UI%20vs%20UX%20-%20Beyond%20Buzzwords.key?dl=0)  
 
 
 *It’s UX and UI - How Elsevier Uses UX Generalists and Design Systems to Deliver Exceptional Experiences*

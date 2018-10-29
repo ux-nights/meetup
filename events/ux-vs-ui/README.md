@@ -20,10 +20,7 @@ UX Nights Office Hours: http://bit.ly/ux-nights
 
 6:30 - 7:45 Lightning Talks
 
-7:45 - 8:30 Hanging out
-
-8:30 - ?:?? After party (MilkBoy 1100 Chestnut St.)
-
+7:45 - 8:30 Wrapping Up and Hanging Out
 
 - - -
 

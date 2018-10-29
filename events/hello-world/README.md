@@ -57,15 +57,21 @@ In this talk, I will share the tools and processes that we apply during a UX dis
 
 Amber is a project manager and career changer who is passionate about fostering collaboration and creating high performing cross-functional teams. She is also an obsessive dog-mom and can be easily bribed with waffles and Street Fighter II tournaments.
 
+LinkedIn: [https://www.linkedin.com/in/alynnburgess/](https://www.linkedin.com/in/alynnburgess/)
+
 ### Sarah Gray
 
 Sarah is an engineering manager at PromptWorks, a Philadelphia-based consulting firm. When not geeking out over code, she is super passionate about the Philadelphia tech scene; she's a co-organizer of Philadelphia Python Users Group, the Software as Craft meetup, and the DevOpsDays Philadelphia conference. Sarah's always on the lookout for kati rolls and book recommendations :)
+
+LinkedIn: [https://www.linkedin.com/in/sarahelizgray/](https://www.linkedin.com/in/sarahelizgray/)
 
 ### Luis Cielak
 
 Luis comes from a background in Information Systems and Interactive Design. He mixes his design and coding chops to create usable interfaces, rich experiences, and interactive visualizations that tell stories and help solve problems.
 
 When Luis is not busy making things with data and pixels, he enjoys traveling, reading, and photographing the world around him.
+
+LinkedIn: [https://www.linkedin.com/in/cielak/](https://www.linkedin.com/in/cielak/)
 
 - - -
 

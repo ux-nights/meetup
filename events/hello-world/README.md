@@ -77,4 +77,14 @@ LinkedIn: [https://www.linkedin.com/in/cielak/](https://www.linkedin.com/in/ciel
 
 ## Documentation
 
-TBD
+*Get down with git*
+
+[View Slides](#)
+
+*We The People: Team Working Agreements*
+
+[View Slides](#)
+
+*UX Discovery Tools*
+
+[Vide Slides](https://speakerdeck.com/luiscielak/ux-nights-hello-world)

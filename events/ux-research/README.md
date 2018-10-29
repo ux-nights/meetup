@@ -9,7 +9,7 @@ Come join us! UX nights is a safe place where we talk about user experience and 
 
 This week will be focusing on UX Research. The first half will consist of eating and mingling. Then we'll have three lightning talks by Keren, Andrew, and Sujan that will teach us and inspire us.
 
-Do you have a portfolio or resume you want feedback on? Send it in by Monday September 24th and we'll find sometime to talk about it privately on Thursday the 27th after the meetup. (Email to: luis@luiscielak.com)
+Do you have a portfolio or resume you want feedback on? Send it in by Monday September 24th and we'll find sometime to talk about it privately on Thursday the 27th after the meetup.
 
 - - -
 

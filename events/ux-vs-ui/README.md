@@ -111,7 +111,7 @@ LinkedIn:   www.linkedin.com/in/drewchristiano
 
 *It’s UX and UI - How Elsevier Uses UX Generalists and Design Systems to Deliver Exceptional Experiences*
 
-[View Slides](#)
+View Slides (TBD)
 
 
 *Are You Sharpening Your Arrows or Checking the Box?*

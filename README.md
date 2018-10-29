@@ -22,3 +22,5 @@ Sign up for UX Nights Office Hours. Book a one-on-one 30 minute session to revie
 
 * [UX Research](events/ux-research) _(2018-09-27)_
 
+* [Hello World](events/hello-world) _(2018-04-24)_
+

@@ -17,7 +17,7 @@ Do you have a portfolio or resume you want feedback on? Send it in by Monday Sep
 
 6:00 - 6:30 Networking and Food  
 6:30 - 8:00 Lightning Talks  
-8:00 - 9:00 Hanging Out 
+8:00 - 8:30 Hanging Out 
 
 *Lightning Talks*
 

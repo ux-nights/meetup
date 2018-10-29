@@ -119,5 +119,5 @@ LinkedIn:   www.linkedin.com/in/drewchristiano
 
 *Are You Sharpening Your Arrows or Checking the Box?*
 
-[View Slides](#)
+[View Slides](https://goo.gl/NADsBC)
 

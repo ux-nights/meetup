@@ -18,7 +18,7 @@ Sign up for UX Nights Office Hours. Book a one-on-one 30 minute session to revie
 
 ### 2018
 
-* Artificial Intelligence & Machine Learning _(Novermber 29th)_
+* [Artificial Intelligence & Machine Learning](events/ai-ml) _(Novermber 29th)_
 
 * [UX vs. UI](events/ux-vs-ui) _(October 25th)_
 

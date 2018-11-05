@@ -30,7 +30,7 @@ UX Nights Office Hours: http://bit.ly/ux-nights
   by: L. Steven Pashley
 
 - Are You Sharpening Your Arrows or Checking the Box?   
-  by: Anthony Projects
+  by: Anthony Profeta
 
 - UI vs UX: Beyond Buzzwords   
   by: Drew Christiano

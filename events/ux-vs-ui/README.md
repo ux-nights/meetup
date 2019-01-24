@@ -1,5 +1,7 @@
 # UX Nights: UX vs. UI
 
+Date: October 25th, 2018
+
 This week will be focusing on UX vs UI. The first half will consist of eating and mingling. Then we'll have three lightning talks that will teach us and inspire us.
 
 UX nights is a safe place where we talk about user experience and how it affects your life and the work you do.

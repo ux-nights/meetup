@@ -10,9 +10,9 @@ UX Nights Office Hours: http://bit.ly/ux-nights
 
 Schedule
 
-6:00 - 6:30 Networking and Food
-6:30 - 8:00 Talks
-8:00 - 8:30 Hanging Out
+6:00 - 6:30 Networking and Food  
+6:30 - 8:00 Talks  
+8:00 - 8:30 Hanging Out  
 
 - - -
 
@@ -40,12 +40,25 @@ Rose is an adjunct professor or graphic design at Jefferson University and teach
 
 Rose holds a degree in Visual Communications from the University of Delaware and a Masters in the Arts in Education from Harvard University.
 
-Website: http://disantodesign.com
-LinkedIn: http://linkedin.com/in/rose-disanto-3550504
+Website: http://disantodesign.com  
+LinkedIn: http://linkedin.com/in/rose-disanto-3550504  
 
 ### Bernardo Margulis
 
 Bernardo is a graphic designer, creative director, and educator based in Philadelphia. He holds an MFA in Graphic and Interactive Design from Temple University’s Tyler School of Art, a Certificate in Typeface Design from Cooper Union, and is an IBM-trained Design Thinking facilitator. His 12+ years work experience range from small and large studios, to agencies, to multinational entertainment groups, and clients in from various industries in the USA and abroad. His work has been awarded and shown across the globe. During the day, Bernardo is the creative director for Drexel University's Institutional Advancement; he moonshines as vice president for AIGA Philadelphia; and produces creative projects—personal and freelance—under This Makes Me Happy.
 
-Website: http://thismakesmehappy.co
-LinkedIn: http://linkedin.com/in/thismakesmehappy
+Website: http://thismakesmehappy.co  
+LinkedIn: http://linkedin.com/in/thismakesmehappy  
+
+- - -
+
+## Documentation
+
+*Typography in Practice*
+
+View Slides (TBD)
+
+
+*Layering the Brand*
+
+View Slides (TBD)

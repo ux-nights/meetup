@@ -1,5 +1,7 @@
 # UX Nights: Typography
 
+Date: January 24th, 2019
+
 This week will be focusing on Typography. The first half will consist of eating and mingling. Then we'll have some talks that will teach us and inspire us.
 
 Sign up for UX Nights Office Hours. Book a one-on-one 30 minute session to review your portfolio, resume, or discuss anything you would like.

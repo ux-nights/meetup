@@ -35,12 +35,12 @@ This talk will begin with a high level explanation of why “words” can be rep
 
 ## Documentation
 
-- *Declarative Approaches to Building Dashboards* 
+*Declarative Approaches to Building Dashboards* 
 
-[Code and Slides](https://github.com/dbespalov/dashboards)
+- [Code and Slides](https://github.com/dbespalov/dashboards)
 
 
-- *Fun with word vectors*
+*Fun with word vectors*
 
-[Allison Parish's talk (inspiration of the talk)](https://www.youtube.com/watch?v=L3D0JEA1Jdc)  
-[Link to word vectors used](https://nlp.stanford.edu/projects/glove/)
+- [Allison Parish's talk (inspiration of the talk)](https://www.youtube.com/watch?v=L3D0JEA1Jdc)  
+- [Link to word vectors used](https://nlp.stanford.edu/projects/glove/)

@@ -16,6 +16,10 @@ Sign up for UX Nights Office Hours. Book a one-on-one 30 minute session to revie
 
 ## Events
 
+### 2019
+
+* [Typography](events/typography) _(January 24th)_
+
 ### 2018
 
 * [Artificial Intelligence & Machine Learning](events/ai-ml) _(Novermber 29th)_

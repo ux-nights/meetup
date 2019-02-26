@@ -58,7 +58,7 @@ LinkedIn: http://linkedin.com/in/thismakesmehappy
 
 *Typography in Practice*
 
-[View Slides](https://www.dropbox.com/s/8g2ce3b2hos1wh1/layering-the-brand_bernardo-margulis_2019-01-24.pdf?dl=1)
+[View Slides](https://www.dropbox.com/s/8g2ce3b2hos1wh1/layering-the-brand_bernardo-margulis_2019-01-24.pdf?dl=0)
 
 
 *Layering the Brand*

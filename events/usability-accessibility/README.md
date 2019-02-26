@@ -42,15 +42,15 @@ This is a high level overview of common digital accessibility concerns. This hig
 
 Dave Cooksey is a Principal Experience Designer at Elsevier Clinical Solutions. He was a co-chair of the 2017 IA Summit, has served multiple times as Chair of PhillyCHI, and also happens to be colorblind. You can follow him on Twitter at @saturdave.
 
-Twitter: https://twitter.com/saturdave
-LinkedIn: https://www.linkedin.com/in/saturdave
+Twitter: https://twitter.com/saturdave  
+LinkedIn: https://www.linkedin.com/in/saturdave  
 
 ### Mikey Ilagan
 
 Mikey Ilagan is a Product Manager on the Comcast Accessibility Team. He's spent the past decade building digital experiences using a lifetime of passion for technology. Today, he uses a diverse background to work with product teams to ensure Xfinity's offerings are usable and well-designed for customers using assistive technology.
 
-Twitter: https://twitter.com/mikeyil
-LinkedIn: https://www.linkedin.com/in/mikeyil
+Twitter: https://twitter.com/mikeyil  
+LinkedIn: https://www.linkedin.com/in/mikeyil  
 
 - - -
 

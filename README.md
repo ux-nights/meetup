@@ -20,6 +20,8 @@ Sign up for UX Nights Office Hours. Book a one-on-one 30 minute session to revie
 
 ### 2019
 
+* [Internet of Things (IoT)](events/iot) _(September 19th)_
+
 * [Prototyping with InVision](events/prototyping-invision) _(March 21st)_
 
 * [Usability and Accessibility](events/usability-accessibility) _(February 21st)_

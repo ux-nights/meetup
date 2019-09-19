@@ -49,7 +49,7 @@ In this talk, Luis will share some of the work that inspires him to keep making 
 
 Jeff Deville is a Sr. Developer with PromptWorks, where he enjoys applying his old startup CTO experience and love for difficult problems to a continuously-changing series of technical challenges.
 
-LinkedIn: https://www.linkedin.com/in/jeffdeville/
+LinkedIn: [linkedin.com/in/jeffdeville/](https://www.linkedin.com/in/jeffdeville/)
 
 ### Luis Cielak
 
@@ -57,8 +57,8 @@ Luis is a User Experience and visualization consultant in Philadelphia. His work
 
 Luis holds a BS in Management Information Systems from Florida State University and a MS in Interactive Design and Media from Jefferson University.
 
-Twitter: https://twitter.com/luisCielak  
-LinkedIn: https://www.linkedin.com/in/cielak/
+Twitter: [twitter.com/luisCielak](https://twitter.com/luisCielak)  
+LinkedIn: [linkedin.com/in/cielak/](https://www.linkedin.com/in/cielak/)
 
 - - -
 

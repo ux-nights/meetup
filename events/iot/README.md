@@ -57,7 +57,7 @@ Luis is a User Experience and visualization consultant in Philadelphia. His work
 
 Luis holds a BS in Management Information Systems from Florida State University and a MS in Interactive Design and Media from Jefferson University.
 
-Twitter: https://twitter.com/luisCielak
+Twitter: https://twitter.com/luisCielak  
 LinkedIn: https://www.linkedin.com/in/cielak/
 
 - - -

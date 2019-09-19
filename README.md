@@ -12,7 +12,7 @@ Sign up for UX Nights Office Hours. Book a one-on-one 30 minute session to revie
 
 **Join our Meetup group**: [meetup.com/ux-nights/](https://www.meetup.com/ux-nights/)
 
-**Code of Conduct**: [UX Nights Code of Conduct](code-of-conduct.md)
+**Code of Conduct**: [PromptWorks Code of Conduct](code-of-conduct.md)
 
 - - -
 

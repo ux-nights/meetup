@@ -1,7 +1,5 @@
 # UX Nights Code of Conduct
 
-> PromptWorks expects any group using its space to have its own code of conduct. This document is only a supplemental measure.
-
 
 ## Purpose
 
@@ -39,21 +37,19 @@ PromptWorks will not tolerate any intimidating, harassing, discriminatory, or de
 
 Unacceptable behavior will not be tolerated by attendees, organizers, venue staff, sponsors, or other patrons of the groups using this space. Anyone who’s asked to stop this type of behavior is expected to do so immediately.
 
-If a participant engages in any form of unacceptable behavior as detailed above, the community organizers may take any action they deem appropriate, up to and including expelling the participant from the community without warning or refund and banning them from attending any future events in the PromptWorks space.
+If a participant engages in any form of unacceptable behavior as detailed above, the community organizers may take any action they deem appropriate, up to and including expelling the participant from the community without warning or refund and banning them from attending any future events.
 
 ## If You Witness Unacceptable Behavior
 
 If you are subjected to behavior that violates this code of conduct, observe another person being subjected to behavior that violates this code of conduct, or have any concerns, please notify an event organizer as soon as possible. It is their responsibility to help you resolve this issue.
-If you are unable to report your concerns to an event organizer, you can notify PromptWorks via the ​[Incident Report Form​](https://docs.google.com/forms/d/1tF9mMP7zrX0veZGy7zXEaUyGjfdLNjak2j8yokX_wfE/viewform?edit_requested=true).
 
 If you participated in an event organized through MeetUp, you may also want to contact the organization direction by emailing abuse@meetup.com.
 
 ## For Event Organizers
 
 Event organizers are encouraged to use their discretion when resolving issues.
-If follow-up with PromptWorks is necessary, please email admin@promptworks.com.
 
-**If anyone refuses to leave the space or is acting in a dangerous manner​**, contact the front desk at 215-985-3525, and they will be able to provide security personnel.
+**If anyone refuses to leave the space or is acting in a dangerous manner**, contact the front desk at 215-985-3525, and they will be able to provide security personnel.
 
 ## Reverse “-isms”
 
@@ -66,7 +62,6 @@ PromptWorks prioritizes marginalized people’s safety over privileged people’
 
 ## Resources & Attributions
 
-* [PromptWorks Incident Report Form](https://docs.google.com/forms/d/1tF9mMP7zrX0veZGy7zXEaUyGjfdLNjak2j8yokX_wfE/viewform?edit_requested=true)
 * [WordPress User Group Meetup Organizer Handbook We Evolve CoC](https://make.wordpress.org/community/handbook/meetup-organizer/resources/code-of-conduct/)
 * [Philly Tech Sistas CoC](https://www.phillytechsistas.org/code-of-conduct)
 

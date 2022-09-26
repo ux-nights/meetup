@@ -1,4 +1,4 @@
-# PromptWorks Code of Conduct (events)
+# UX Nights Code of Conduct
 
 > PromptWorks expects any group using its space to have its own code of conduct. This document is only a supplemental measure.
 
